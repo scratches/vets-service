@@ -1,0 +1,30 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Jenv
+.java-version
+
+# Eclipse
+.settings/
+.classpath
+.project
+.factorypath
+
+# IntelliJ IDEA
+.idea
+*.iml
+
+# VS Code
+.vscode/
+
+# Branch switching
+generated/
+
+# Symlinks
+spring-petclinic-microservices-config
+
+# Zipkin server binary
+**/*.jar
+**/*.asc
+**/*.md5
